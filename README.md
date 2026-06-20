@@ -55,4 +55,4 @@ Todo el código está implementado en **MATLAB**.
 
 ## Referencia
 
-> Nuria Hidalgo García Rossell, “Descomposición en Valores Singulares. Métodos de cálculo y aplicaciones”, Trabajo de Fin de Grado, Universidad Complutense de Madrid, Facultad de Ciencias Matemáticas, 2026
+> Nuria Hidalgo García-Rossell, “Descomposición en Valores Singulares. Métodos de cálculo y aplicaciones”, Trabajo de Fin de Grado, Universidad Complutense de Madrid, Facultad de Ciencias Matemáticas, 2026
