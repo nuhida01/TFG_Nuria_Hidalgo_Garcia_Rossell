@@ -6,7 +6,7 @@ El repositorio contiene:
 - Implementaciones en MATLAB de algoritmos para el cálculo de la SVD.
 - Una aplicación de la SVD al análisis de firmas génicas en cáncer de mama mediante PCA y PCA disperso.
 
-> Todo el código está implementado en **MATLAB**.
+Todo el código está implementado en **MATLAB**.
 
 
 ## Contenido del repositorio
@@ -49,9 +49,7 @@ El repositorio contiene:
 **Scripts**
 
 - `TCGA.m`  
-  Script principal que ejecuta el estudio completo sobre el conjunto de datos de expresión génica de cáncer de mama (TCGA):
-
-> Nota: el conjunto de datos de expresión génica no se incuyen en el repositorio.
+  Script principal que ejecuta el estudio completo sobre el conjunto de datos de expresión génica de cáncer de mama. Nota: el conjunto de datos de expresión génica no se incuyen en el repositorio.
 
 
 
